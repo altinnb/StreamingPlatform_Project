@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hyX40DyUHpxiHMqvemNVAwm/TBfUkfW9JFwtEotrxcU=",
+  "Hash": "YlMJzi3+yRRNhmvuMnRXLX0HAo55hNcRiqWIqcMcGkY=",
   "Source": "MovieClub_P1",
   "BasePath": "_content/MovieClub_P1",
   "Mode": "Default",
@@ -1103,6 +1103,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Altinn\\source\\repos\\StreamingPlatform_Project\\MovieClub_P1\\wwwroot\\images\\icon2.png",
+      "SourceId": "MovieClub_P1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Altinn\\source\\repos\\StreamingPlatform_Project\\MovieClub_P1\\wwwroot\\",
+      "BasePath": "_content/MovieClub_P1",
+      "RelativePath": "images/icon2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icon2.png"
+    },
+    {
+      "Identity": "C:\\Users\\Altinn\\source\\repos\\StreamingPlatform_Project\\MovieClub_P1\\wwwroot\\images\\movieclub.jpg",
+      "SourceId": "MovieClub_P1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Altinn\\source\\repos\\StreamingPlatform_Project\\MovieClub_P1\\wwwroot\\",
+      "BasePath": "_content/MovieClub_P1",
+      "RelativePath": "images/movieclub.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\movieclub.jpg"
     },
     {
       "Identity": "C:\\Users\\Altinn\\source\\repos\\StreamingPlatform_Project\\MovieClub_P1\\wwwroot\\js\\site.js",

@@ -1,9 +1,12 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using MovieClub_P1.Data;
 using MovieClub_P1.Models;
 
 namespace MovieClub_P1.Controllers
 {
+
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
